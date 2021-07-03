@@ -1,3 +1,5 @@
+here we will rotate the elements in the array
+
 n=int(input("enter the no fo rotation : "))
 
 list=[1,2,3,4,5,6,7]
