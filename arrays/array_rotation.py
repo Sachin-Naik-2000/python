@@ -1,7 +1,7 @@
 here we will rotate the elements in the array
 ##############################################
 
-n=int(input("enter the no fo rotation : "))
+n=int(input("enter the no of rotation : "))
 
 list=[1,2,3,4,5,6,7]
 
